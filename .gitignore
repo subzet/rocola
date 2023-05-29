@@ -4,7 +4,6 @@ results
 .nyc_output
 *.tsbuildinfo
 .env
-package-lock.json
 .vscode
 .sessions
 *.log
